@@ -5,7 +5,7 @@ import java.util.Map;
 
 public class PracticeD {
     Map<String,Integer> createUpdatedCollection(List<String> collectionA, Map<String,List<String>> object) {
-        //实现练习要求，并改写该行代码。
+
 
         return null;
     }
