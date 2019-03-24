@@ -8,6 +8,7 @@ public class PracticeA {
     List<String> collectSameElements(List<String> collection1, List<String> collection2) {
 
         List<String> result = Arrays.asList("a", "e", "f", "d");
+        List<String> result111 = Arrays.asList("aaaaa", "e", "f", "d");
         return result;
     }
 
